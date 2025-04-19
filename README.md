@@ -1,7 +1,7 @@
 ## Hi there 👋, I am ASKI001
 
 # 💫 About Me:
-🌱 I’m currently studying to be a <b>Software rngineer</b> and <b>Electrical Engineer</b></br>
+🌱 I’m currently studying to be a <b>Software engineer</b> and <b>Electrical Engineer</b></br>
 🔭 I’m currently working on my own project related to <b>Human Energy Harvesting</b><br>
 
 
